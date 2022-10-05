@@ -1,0 +1,8 @@
+.friend{
+    border: 1px solid white;
+    box-shadow: inset 3px 4px 12px coral;
+    background-color: lightsteelblue;
+    border-radius: 15px;
+    padding: 10px 15px;
+    margin: 15px 25px;
+}
